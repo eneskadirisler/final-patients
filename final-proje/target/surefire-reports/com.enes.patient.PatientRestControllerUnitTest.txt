@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.enes.patient.PatientRestControllerUnitTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.086 s - in com.enes.patient.PatientRestControllerUnitTest

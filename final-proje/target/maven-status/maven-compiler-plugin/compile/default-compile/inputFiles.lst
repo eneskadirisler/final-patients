@@ -1,0 +1,15 @@
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/response/PatientRemoveResponse.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/PatientApplication.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/repository/PatientRepository.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/entity/Patient.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/response/PatientSaveResponse.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/response/PatientQueryResponse.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/exception/BusinessException.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/response/PatientGeneralResponse.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/request/PatientSaveRequest.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/response/GeneralResponse.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/service/PatientService.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/request/PatientRemoveRequest.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/business/PatientBusinessService.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/PatientRestController.java
+/Users/ssb/Downloads/Medipol_OOP_2020-master/patient/src/main/java/com/enes/patient/web/request/GeneralRequest.java
